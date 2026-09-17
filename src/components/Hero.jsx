@@ -1,8 +1,8 @@
 ﻿import { useState, useEffect, useCallback, useRef } from "react";
 import { useNavigate } from "react-router-dom";
 import slideOne from "../assets/images/aboutUs/ocean.png"
-import slideSecond from "../assets/images/aboutUs/ship.png"
-import slideThree from "../assets/images/aboutUs/domestic.png"
+import slideSecond from "../assets/images/aboutUs/shipp.png"
+import slideThree from "../assets/images/aboutUs/domesticc.png"
 
 import {
   ArrowRight,
